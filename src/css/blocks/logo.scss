@@ -1,0 +1,14 @@
+.logo {
+    & {
+    }
+    &__link {
+        border: none;
+        outline: none;
+        text-decoration: none;
+    }
+    &__image {
+        max-height: 32px;
+        max-width: 32px;
+        vertical-align: middle;
+    }
+}

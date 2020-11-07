@@ -1,0 +1,16 @@
+@import './blocks/body.scss';
+@import './blocks/header.scss';
+@import './blocks/footer.scss';
+@import './blocks/main.scss';
+@import './blocks/aside.scss';
+@import './blocks/logo.scss';
+@import './x/x1.scss';
+
+html, body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+* {
+    box-sizing: border-box;
+}

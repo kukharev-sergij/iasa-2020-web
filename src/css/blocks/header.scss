@@ -1,0 +1,18 @@
+.header {
+    & {
+        border: 1px solid red;
+        display: inline-flex;
+        flex-flow: row nowrap;
+        justify-self: flex-start;
+        align-items: center;
+        width: 100%;
+    }
+    &__item {
+        display: inline-flex;
+        align-items: center;
+        min-height: 32px;
+    }
+    &__logo {
+
+    }
+}
